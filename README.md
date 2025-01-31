@@ -48,5 +48,7 @@ Mass Scanning:
 $ crlfuzzer -l file.txt
 ```
 
+# Payload from <a href="https://github.com/cujanovic/CRLF-Injection-Payloads">cujanovic</a>
+
 𝙸 𝚑𝚘𝚙𝚎 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚌𝚊𝚗 𝚋𝚎 𝚞𝚜𝚎𝚏𝚞𝚕 𝚏𝚘𝚛
 𝚎𝚟𝚎𝚛𝚢𝚘𝚗𝚎, 𝚝𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚞𝚜𝚒𝚗𝚐 𝚝𝚑𝚎 𝚝𝚘𝚘𝚕𝚜 𝙸 𝚖𝚊𝚍𝚎. 𝚃𝚑𝚒𝚜 𝚝𝚘𝚘𝚕𝚜 𝚒𝚗 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚋𝚢 <a href="https://github.com/dwisiswant0/crlfuzz">𝙲𝚁𝙻𝙵𝚞𝚣𝚣</a>.
