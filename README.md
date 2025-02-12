@@ -30,10 +30,9 @@ options:
 # Installation
 
 ```
-$ git clone https://github.com/randixploit/crlfuzzer
-$ cd crlfuzzer
-$ pip3 install -r requirements.txt
-$ python3 setup.py install
+$ python3 -m pip install git+https://github.com/randixploit/crkfuzzer.git
+or
+$ python3 -m pip install --upgrade git+https://github.com/randixploit/crlfuzzer.git
 ```
 
 # Usage
