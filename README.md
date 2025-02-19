@@ -1,6 +1,7 @@
 # CRLFuzzer
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.x-blue.svg"></a>
 <a href="https://opensource.org/license/MIT"><img src="https://img.shields.io/badge/license-MIT-green.svg"></a>
+<a href="#"><img src="https://api.visitorbadge.io/api/VisitorHit?user=projectdiscovery&repo=nuclei&countColor=%237B1E7A"></a>
 
 CRLFuzzer is a tool for scanning CRLF vulnerabilities using threadpool, so that the scanning process can run quickly and accurately. This tool is equipped with a built-in payload to check vulnerabilities on targeted websites, so you don't need to provide an additional payload.
 
