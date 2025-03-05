@@ -29,7 +29,7 @@ options:
 # Installation
 
 ```
-python3 -m pip install git+https://github.com/randixploit/crkfuzzer.git
+python3 -m pip install git+https://github.com/randixploit/crlfuzzer.git
 or
 python3 -m pip install --upgrade git+https://github.com/randixploit/crlfuzzer.git
 ```
