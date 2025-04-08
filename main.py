@@ -27,7 +27,7 @@ def main():
 ░ ░         ░         ░  ░          ░       ░ ░      ░ ░       ░  ░   ░     
 ░                                         ░        ░                        
 
-{white} V 1.0
+{white} V 1.1
 {white} by randiXploit
 {reset}""")
     
