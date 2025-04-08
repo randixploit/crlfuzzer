@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="crlfuzzer",  # Nama tools Anda
-    version="1.0.0",  # Versi tools Anda
+    version="1.1.0",  # Versi tools Anda
     author="randiXploit",  # Nama penulis
     author_email="randixploit@gmail.com",  # Email penulis
     description="CRLF Vulnerability Fuzzer",  # Deskripsi singkat tools Anda
