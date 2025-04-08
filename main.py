@@ -169,7 +169,7 @@ def main():
                 print(f"[{red}ERROR{reset}] Invalid schema for {full_url}!")
             except requests.exceptions.MissingSchema:
                 print(f"[{red}ERROR{reset}] Missing schema (https://) for {full_url}!")
-        with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
+        with ThreadPoolExecutor(max_workers=20) as executor:
             futures = [
                 executor.submit(scan_url, payload)
                 for payload in payloads
@@ -310,7 +310,7 @@ def main():
                     except requests.exceptions.MissingSchema:
                         print(f"[{red}ERROR{reset}] Missing schema (https://) for {full_url}!")
     
-                with ThreadPoolExecutor(max_workers=10) as executor:
+                with ThreadPoolExecutor(max_workers=20) as executor:
                     futures = [
                         executor.submit(scan_url, url, payload)
                         for url in urls for payload in payloads
